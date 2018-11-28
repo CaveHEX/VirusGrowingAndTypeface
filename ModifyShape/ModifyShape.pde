@@ -35,7 +35,7 @@ void draw() {
   pop();
 
   fill(0, 0, 100);
-  text("Clic to change the letter", 10, 100);
+  text("Press keys to change the selection", 10, 100);
 }
 
 void keyPressed() {
